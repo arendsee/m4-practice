@@ -1,0 +1,7 @@
+My hello-world script will replace the string "hello" with "goodbye"
+
+The default invokation of m4 is as a shell command. I do not like this.
+I would much prefer to write my commands into a script. No doubt there is
+a way to do this, but I have not yet found it.
+
+The hello-world.sh script is a Bash script that calls m4.
