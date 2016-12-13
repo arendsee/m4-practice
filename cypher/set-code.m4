@@ -1,0 +1,2 @@
+define(LETTERS, `abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ')dnl
+define(REPLACE, `bcdefghijklmnopqrstuvwxyzabcdefghijklmnopqrstuvwxyza')dnl
